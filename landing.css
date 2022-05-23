@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('./transfonter.org-20210321-213308/PlayfairDisplay-Bold.woff2') format('woff2');
+        url('PlayfairDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+  }
+
+h1{
+    font-family: 'Playfair Display';
+    src: url('./transfonter.org-20210321-213308/PlayfairDisplay-Bold.woff2') format('woff2');
+    color: rgb(0, 0, 255);
+    padding:10px;
+    font-size: 3rem;
+}
+h2{
+  font-family: "helvetica", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;  
+  padding:10px;
+  margin-top:10px;
+  font-weight: bold;
+}
+h3{
+    font-family: "helvetica", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;  
+    padding:10px;
+    margin-top:10px;
+    font-weight: lighter;
+    font-weight: lighter;
+    width: 65vw;
+}
+h4{
+  font-family: "helvetica", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;  
+  padding:10px;
+  margin-top:10px;
+  font-weight: lighter;
+  width: 45vw;
+}
+.button{
+  font-family: "helvetica", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: lighter;
+  background-color: rgb(242, 255, 0);
+  font-size: 1.4rem;
+  padding:10px;
+  margin-left:10px;
+}
+b{
+  color: crimson;
+}

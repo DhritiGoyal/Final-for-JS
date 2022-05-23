@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('./transfonter.org-20210321-213308/PlayfairDisplay-Bold.woff2') format('woff2');
+      url('PlayfairDisplay-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+  }
+  canvas {
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1{
+    font-family: "helvetica", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;  
+    padding:10px;
+    margin-top:10px;
+    font-weight: bold;
+  }
+h2{
+  font-family: 'Playfair Display';
+  src: url('./transfonter.org-20210321-213308/PlayfairDisplay-Bold.woff2') format('woff2');
+  color: white;
+}
+h3{
+  font-family: "helvetica", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;  
+  padding:10px;
+  margin-top:10px;
+  font-weight: lighter;
+  font-weight: lighter;
+  width: 65vw;
+}
